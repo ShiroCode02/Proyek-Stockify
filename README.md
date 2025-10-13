@@ -26,8 +26,7 @@ Teknologi:
 
 
 Fungsi Per role
-Role:
-Admin:
+Role Admin:
 ⦁	Mengelola seluruh aspek aplikasi.
 ⦁	Membuat, membaca, mengupdate, dan menghapus (CRUD) data kategori produk, supplier, dan pengguna.
 ⦁	Melihat laporan stok barang, riwayat transaksi, dan aktivitas pengguna.
