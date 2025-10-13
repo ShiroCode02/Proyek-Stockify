@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes fade-in {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fade-in-delay {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulse-slow {
+    0% { opacity: 0.2; }
+    50% { opacity: 0.4; }
+    100% { opacity: 0.2; }
+}
+
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+.animate-fade-in {
+    animation: fade-in 0.6s ease-out;
+}
+
+.animate-fade-in-delay {
+    animation: fade-in-delay 0.6s ease-out 0.2s both;
+}
+
+.animate-pulse-slow {
+    animation: pulse-slow 4s ease-in-out infinite;
+}
+
+.animate-spin-slow {
+    animation: spin 3s linear infinite;
+}
+
+.parallax-bg {
+    transform: translateZ(0);
+    will-change: transform;
+}
+
+.perspective-1000 {
+    perspective: 1000px;
+}
+
+.hover\:rotate-x-5:hover {
+    transform: rotateX(5deg);
+}
+
+.hover\:rotate-y-5:hover {
+    transform: rotateY(5deg);
+}
+
+#sidebar {
+    transition: transform 0.3s ease-in-out;
+}
+
+#main-content {
+    min-height: 100vh;
+    position: relative;
+    z-index: 10;
+}
