@@ -134,5 +134,7 @@ Stok:
 ⦁	Konfirmasi penerimaan barang
 ⦁	Konfirmasi pengeluaran barang
 
+
 Starter Project : https://github.com/AdeRyanH/laravel-flowbite-admin-dashboard
+
 Sample Database : https://dbdiagram.io/d/Stockify-670f3c7a97a66db9a3218681
