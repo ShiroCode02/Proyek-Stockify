@@ -26,6 +26,7 @@ Teknologi:
 
 
 Fungsi Per role
+
 Role Admin:
 ⦁	Mengelola seluruh aspek aplikasi.
 ⦁	Membuat, membaca, mengupdate, dan menghapus (CRUD) data kategori produk, supplier, dan pengguna.
@@ -47,6 +48,7 @@ Staff Gudang:
 
 
 Alur dan Gambaran:
+
 1.	Manajemen Produk:
 ⦁	Admin dapat menambahkan kategori produk baru (misalnya: Elektronik, Pakaian, Makanan) dan mendefinisikan atribut produk (misalnya: ukuran, warna, berat).
 ⦁	Manajer Gudang dapat menambahkan produk baru ke dalam sistem, melengkapi data produk seperti nama, deskripsi, harga beli, harga jual, stok awal, dan gambar produk.
@@ -69,7 +71,9 @@ Admin dan Manajer Gudang dapat mengakses berbagai laporan, seperti:
 
 
 Fitur:
+
 Admin fitur:
+
 Dashboard:
 ⦁	Menampilkan ringkasan informasi penting, seperti:
 ⦁	Jumlah produk
@@ -103,6 +107,7 @@ Pengaturan:
 ⦁	Pengaturan umum aplikasi (misalnya: logo, nama aplikasi)
 
 Manajer Gudang fitur:
+
 Dashboard:
 ⦁	Menampilkan ringkasan informasi stok barang, seperti: Stok menipis, Barang masuk hari ini, Barang keluar hari ini
 
@@ -123,6 +128,7 @@ Laporan:
 ⦁	Laporan barang masuk dan keluar
 
 Staff Gudang fitur:
+
 Dashboard:
 ⦁	Menampilkan daftar tugas yang harus diselesaikan, seperti: Barang masuk yang perlu diperiksa, Barang keluar yang perlu disiapkan
 
