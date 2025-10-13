@@ -1,6 +1,7 @@
 # Proyek-Stockify
 Tugas Awal Magang/PKL
 
+
 Stockify: Aplikasi Manajemen Stok Barang
 
 Stockify adalah aplikasi web yang dirancang untuk membantu bisnis, khususnya yang memiliki gudang, dalam mengelola stok barang secara efisien dan akurat.
@@ -73,7 +74,6 @@ Admin dan Manajer Gudang dapat mengakses berbagai laporan, seperti:
 Fitur:
 
 Admin fitur:
-
 Dashboard:
 ⦁	Menampilkan ringkasan informasi penting, seperti:
 ⦁	Jumlah produk
@@ -106,9 +106,7 @@ Laporan:
 Pengaturan:
 ⦁	Pengaturan umum aplikasi (misalnya: logo, nama aplikasi)
 
-
 Manajer Gudang fitur:
-
 Dashboard:
 ⦁	Menampilkan ringkasan informasi stok barang, seperti: Stok menipis, Barang masuk hari ini, Barang keluar hari ini
 
@@ -122,15 +120,13 @@ Stok:
 ⦁	Stock opname
 
 Supplier:
-Melihat daftar supplier
+⦁	Melihat daftar supplier
 
 Laporan:
 ⦁	Laporan stok barang (per periode, per kategori)
 ⦁	Laporan barang masuk dan keluar
 
-
 Staff Gudang fitur:
-
 Dashboard:
 ⦁	Menampilkan daftar tugas yang harus diselesaikan, seperti: Barang masuk yang perlu diperiksa, Barang keluar yang perlu disiapkan
 
