@@ -142,8 +142,8 @@ Sample Database : https://dbdiagram.io/d/Stockify-670f3c7a97a66db9a3218681
 
 Rencana Pembagian Tugas:
 
-Yoga Saputra: fokus ke manajemen alur/route dan logika penyaluran data pada proyek stokify agar dapat diterima dan sesuai untuk tampilan, serta sesuaikan beberapa aspek fitur agar sesuai dengan tugas (banyak berfokus pada role Admin dan Manager).
+Yoga Saputra: fokus ke manajemen alur/route dan logika penyaluran data pada proyek stokify agar dapat diterima dan sesuai untuk tampilan, serta sesuaikan beberapa aspek fitur agar sesuai dengan tugas (banyak berfokus pada role Admin dan Manager, serta beberapa penyesuaian rute untu staff).
 
-Alfian Desna Saputra: fokus pada tampilan/design agar informasi yang diterima dari route dapat tampil dengan baik sesuai dengan tugas (Banyak berfokus pada role Staff dan membatu untuk Manager), 
+Alfian Desna Saputra: fokus pada tampilan/design agar informasi yang diterima dari route dapat tampil dengan baik sesuai dengan tugas (Banyak berfokus pada role Staff dan Manager, serta membantu beberapa hal terkait setingan pada admin dan eksport laporan). 
 
 Muhammad Fadrian Samhar: Belum terlalu memamhami keseluruhan tugas, masih banyak yang di coba, dan berniat fokus pada staff dan belum sepenuhnya berkontribusi.
