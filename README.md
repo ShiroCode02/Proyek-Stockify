@@ -106,6 +106,7 @@ Laporan:
 Pengaturan:
 ⦁	Pengaturan umum aplikasi (misalnya: logo, nama aplikasi)
 
+
 Manajer Gudang fitur:
 
 Dashboard:
@@ -126,6 +127,7 @@ Melihat daftar supplier
 Laporan:
 ⦁	Laporan stok barang (per periode, per kategori)
 ⦁	Laporan barang masuk dan keluar
+
 
 Staff Gudang fitur:
 
